@@ -15,9 +15,9 @@
 
 Перенесем на машину с которой будем подключаться и настроим конфигурационный файл. Добавим юзера, добавим контекст и проверим конфигурацию представлено на скриншотах ниже:
 
-![nodes](https://github.com/user-attachments/assets/cd51b95b-6634-4e2a-bd08-775f2d16f427)
-
 ![cert](https://github.com/user-attachments/assets/eaa15996-4eae-4e3d-928f-ed63dc233788)
+
+![nodes](https://github.com/user-attachments/assets/cd51b95b-6634-4e2a-bd08-775f2d16f427)
 
 ![config](https://github.com/user-attachments/assets/8e597268-c363-47a0-b6d4-560bbba8c3a3)
 
