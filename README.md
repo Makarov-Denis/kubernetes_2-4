@@ -44,7 +44,7 @@
 
 ![context](https://github.com/user-attachments/assets/bde91cdf-d732-43af-94c4-d9149f84b7c7)
 
-Выяснилось, что для выполнения команд ```logs ``` и ```describe``` пользователю требуется добавление в роль verbs: ["get"] представлено на скриншоте ниже:
+Запустить не удалось, выяснилось, что для выполнения команд ```logs ``` и ```describe``` пользователю требуется добавление в роль verbs: ["get"] представлено на скриншоте ниже:
 
 ![izm role](https://github.com/user-attachments/assets/21a5f792-4b2e-4d86-a3bc-d6b15a819471)
 
